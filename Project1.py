@@ -1,4 +1,4 @@
-
+# Author - Deep Gupta
 import random
 
 print('Winning rules of the game STONE PAPER SCISSOR are :\n'
